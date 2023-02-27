@@ -15,6 +15,7 @@
 		1E937A0529A7B490007E1D15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E937A0329A7B490007E1D15 /* LaunchScreen.storyboard */; };
 		1ECCC45C29ACFC8300F5D972 /* SnapshotTest_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ECCC45B29ACFC8300F5D972 /* SnapshotTest_Tests.swift */; };
 		1ECCC46429ACFCAB00F5D972 /* SnapshotTesting in Frameworks */ = {isa = PBXBuildFile; productRef = 1ECCC46329ACFCAB00F5D972 /* SnapshotTesting */; };
+		1ECCC46629ACFD8800F5D972 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ECCC46529ACFD8800F5D972 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1E937A0629A7B490007E1D15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1ECCC45929ACFC8300F5D972 /* SnapshotTest_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SnapshotTest_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ECCC45B29ACFC8300F5D972 /* SnapshotTest_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnapshotTest_Tests.swift; sourceTree = "<group>"; };
+		1ECCC46529ACFD8800F5D972 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				1E937A0129A7B490007E1D15 /* Assets.xcassets */,
 				1E937A0329A7B490007E1D15 /* LaunchScreen.storyboard */,
 				1E937A0629A7B490007E1D15 /* Info.plist */,
+				1ECCC46529ACFD8800F5D972 /* DetailViewController.swift */,
 			);
 			path = SnapshotTest;
 			sourceTree = "<group>";
@@ -209,6 +212,7 @@
 				1E9379FD29A7B48D007E1D15 /* ViewController.swift in Sources */,
 				1E9379F929A7B48D007E1D15 /* AppDelegate.swift in Sources */,
 				1E9379FB29A7B48D007E1D15 /* SceneDelegate.swift in Sources */,
+				1ECCC46629ACFD8800F5D972 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
